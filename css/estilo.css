@@ -11,6 +11,11 @@ div{
 	padding: 40px 40px;
 }
 
+div.primero{
+	background-color: darkturquoise;
+}
+
+
 div.segundo{
 	background-color: darkturquoise;
 }
