@@ -10,3 +10,11 @@ div{
 	align-items:center;
 	padding: 40px 40px;
 }
+
+div.segundo{
+	background-color: darkturquoise;
+}
+
+div.segundo h2{
+	color:gold;
+}
